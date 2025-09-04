@@ -16,7 +16,7 @@
     </a>
   </div>
 <br></br>
-<h2 align="center">Repositorios</h2>
+<h2 align="center">Repositories</h2>
 <br></br>
 
 <div width="100%" align="center">
@@ -24,11 +24,9 @@
   <a align="right" href="https://github.com/wqryx/Contactos-Web" title="Contactos-Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=wqryx&repo=Contactos-Web&theme=react&title_color=ffffff&border_color=ffffff&icon_color=ffffff&bg_color=000000&border_radius=10"></a>
 </div>
 <br></br><br></br><br></br>
-<h2 align="center">Conéctate conmigo</h2>
-<br></br>
+<h2 align="center">Let's connect</h2>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto_CM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
-
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
 </p>
