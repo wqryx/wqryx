@@ -5,7 +5,7 @@
 <h2 align="center">Mis habilidades</h2>
 <br></br>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=c,python,react,php,typescript,tailwind,nodejs,git" height="40" />
+  <img src="https://skillicons.dev/icons?i=java,python,typescript,php,tailwind,html,css,js,nodejs,mongodb,mysql,git,docker,linux,windows" height="40" />
 </div>
 <br></br>
  <h2 align="center">Stats</h2>
