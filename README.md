@@ -2,7 +2,7 @@
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=cpbzgnkhvifh0fmyuv1znpd81&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=cpbzgnkhvifh0fmyuv1znpd81&redirect=true)
 </div>
 
-## Mis habilidades
+<h2 align="center">Mis habilidades</h2>
 <br></br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,python,react,php,typescript,tailwind,nodejs,git" height="40" />
