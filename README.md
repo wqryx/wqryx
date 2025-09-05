@@ -26,7 +26,7 @@
 <br></br><br></br><br></br>
 <h2 align="center">Let's connect!</h2>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto_CM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/braismoure)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto_CM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/roberto-cristian-mangiurea)
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
 </p>
