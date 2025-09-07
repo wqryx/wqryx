@@ -24,7 +24,10 @@
   <a align="right" href="https://github.com/wqryx/Contactos-Web" title="Contactos-Web"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=wqryx&repo=Contactos-Web&theme=react&title_color=ffffff&border_color=ffffff&icon_color=ffffff&bg_color=000000&border_radius=10"></a>
 </div>
 <br></br><br></br><br></br>
-
+<div width="100%" align="center">
+  <a align="left" href="https://github.com/wqryx/Portfolio" title="Portfolio"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=wqryx&repo=Portfolio&theme=react&title_color=ffffff&border_color=ffffff&icon_color=ffffff&bg_color=000000&border_radius=10"></a>
+  <a align="right" href="https://github.com/wqryx/Primer-Portfolio" title="Primer-Portfolio"><img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=wqryx&repo=Primer-Portfolio&theme=react&title_color=ffffff&border_color=ffffff&icon_color=ffffff&bg_color=000000&border_radius=10"></a>
+</div>
 <br></br><br></br><br></br>
 <h2 align="center">Let's connect!</h2>
 
