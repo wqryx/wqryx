@@ -8,7 +8,7 @@
   <img src="https://skillicons.dev/icons?i=java,python,typescript,php,tailwind,html,css,js,nodejs,mongodb,mysql,git,docker,linux,windows" height="40" />
 </div>
 <br></br>
- <h2 align="center">Stats</h2>
+ <h2 align="center">📊 Stats</h2>
  <br></br>
   <div align=center>
     <a href="https://github.com/wqryx/github-readme-stats">
