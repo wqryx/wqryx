@@ -37,8 +37,12 @@ I am a Software Developer and Network Technician with a strong foundation in bac
 </div>
 <br></br><br></br><br></br>
 <h2 align="center">🤝 Let's connect!</h2>
-
+<div width="100%" align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Roberto_CM-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/roberto-cristian-mangiurea)
+[![Gmail](https://img.shields.io/badge/Gmail-Roberto_CM-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:robertocrma04@gmail.com)
+
+</div>
 <p align="center">
         <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg"/>
 </p>
